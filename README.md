@@ -1,6 +1,6 @@
  # transformation en HTML/CSS 
 
-##Découvre les transformations CSS avec des exemples simples et amusants !
+## Découvre les transformations CSS avec des exemples simples et amusants !
 
 Cette page t'apprendra à animer et transformer des éléments web : faire tourner, agrandir, déplacer et créer des effets visuels.
 
